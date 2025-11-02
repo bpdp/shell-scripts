@@ -38,5 +38,3 @@ or to traverse current directory then do git pull in that directory:
 ```bash
 $ git-pull-all.sh 
 ```
-```
-
