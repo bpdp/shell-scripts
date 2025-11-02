@@ -6,7 +6,6 @@ Traverse into a directory, find any directory inside and then **git pull** from 
 Let's say, I have many repos in `$HOME/repos` like this:
 
 ```bash
-```
 repos/
 ├── dir1
 ├── dir1
@@ -21,7 +20,6 @@ repos/
 ├── ...
 ├── ...
 └── dirN
-```
 ```
 
 Enter each dir and then `git pull` is really crazy, don't you think so? That is why this script exist. 
